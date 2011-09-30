@@ -1,5 +1,5 @@
 package hnefatafl;
 
 public class Main {
-	// test 4
+	//test
 }
